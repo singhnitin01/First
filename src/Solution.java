@@ -47,10 +47,6 @@ public class Solution {
         String result = kangaroo(x1, v1, x2, v2);
 
         System.out.println(result);
-//        bufferedWriter.write(result);
-//        bufferedWriter.newLine();
-//
-//        bufferedWriter.close();
 
         scanner.close();
     }
